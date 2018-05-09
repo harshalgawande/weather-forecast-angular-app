@@ -1,0 +1,6 @@
+<p>
+  
+ <app-weather-details [weather]="selectedDayWeatherItem"></app-weather-details>
+
+ <app-day [dayDetails]="day" *ngFor="let day of weatherItems; let i = index;" (click)="selectDay(i)">
+ </app-day>

@@ -1,0 +1,15 @@
+.container{
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    border: 1px solid gray;
+    width: 500px;
+}
+
+.dayOfweek{
+    font-weight: 600;
+}
+
+.inRowItem{
+    margin:5px;
+}
