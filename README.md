@@ -3,10 +3,10 @@
 ## How to build and run
 1. Install Node 8.x globally
 2. Install Angular CLI 6.x globally (npm install -g @angular/cli)
-3. To build run command "ng build" from project root
-4. To lint run command "ng lint" from project root
-5. To test run command "ng test" from project root
-6. To test run command "ng serve --open" from project root
+3. To build execute "ng build" from project root in console
+4. To lint execute "ng lint" from project root in console
+5. To test execute "ng test" from project root in console
+6. To run excute "ng serve --open" from project root in console
 
 ## TODO (Features/issues)
 1. Change default city
