@@ -1,4 +1,6 @@
-# WeatherForecast
+# WeatherForecast (Build with Angular 6.x)
+
+## Demo - http://weather-forecast-angular-app.herokuapp.com/ 
 
 ## How to build and run
 1. Install Node 8.x globally
